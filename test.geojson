@@ -34,7 +34,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Foo"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -45,7 +50,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bar"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
